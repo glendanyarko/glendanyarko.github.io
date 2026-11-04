@@ -17,5 +17,5 @@ I'm a Junior studying Informatics and Cybersecurity at Indiana University Bloomi
 - Building my first portfolio site
 - Making small projects, like a to-do list app
 
-# Find me
-- Email: you@example.com
+## Find me
+- Email: gnyarko@iu.edu 
