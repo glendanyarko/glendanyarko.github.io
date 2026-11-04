@@ -1,6 +1,7 @@
-# Hi, I'm gnyarko 👋
+# Hello, I'm Glenda Nyarko 
 
-I'm an Informatics and Cybersecurity student at Indiana University (IU). I'm interested in UX design and web development, and I'm using GitHub to learn by building.
+I'm a Junior studying Informatics and Cybersecurity at Indiana University Bloomington. I'm interested in UX design and web development.
+
 
 ## What I'm interested in
 - UX design: making websites that are clear and easy to use
