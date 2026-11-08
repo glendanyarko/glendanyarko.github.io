@@ -10,11 +10,11 @@ I'm an Informatics and Cybersecurity student at Indiana University (IU). I'm int
 - Web development: turning designs into working pages
 - Cybersecurity: learning how to build and protect things safely
 
-## What I'm learning
+# What I'm learning
 - HTML and CSS
 - JavaScript
 - Git and GitHub
 
 
-## Find me
+# Find me
 - Email: gnyarko@iu.edu
