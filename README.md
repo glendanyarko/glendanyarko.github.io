@@ -3,7 +3,7 @@
 I'm an Informatics and Cybersecurity student at Indiana University (IU). I'm interested in UX design and web development, and I'm using GitHub to learn by building.
 
 ## Projects
-Habit tracker 
+- **Habit tracker**: [View the Figma prototype]([YOUR_FIGMA_LINK_HERE](https://www.figma.com/proto/pwZQIyc18jaAs70bLHKZy4/Untitled?node-id=0-1&t=Q7CnfiIfxYZvMNm7-1))  
 
 ## What I'm interested in
 - UX design: making websites that are clear and easy to use
