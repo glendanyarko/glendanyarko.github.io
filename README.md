@@ -16,5 +16,5 @@ I'm an Informatics and Cybersecurity student at Indiana University (IU). I'm int
 - Git and GitHub
 
 
-# Find me
-- Email: gnyarko@iu.edu
+## Find me
+- Email: [gnyarko@iu.edu](mailto:gnyarko@iu.edu)
