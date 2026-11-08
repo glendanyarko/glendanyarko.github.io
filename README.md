@@ -1,4 +1,4 @@
-# Hi, I'm gnyarko 👋
+# Hi, I'm Glenda Nyarko
 
 I'm an Informatics and Cybersecurity student at Indiana University (IU). I'm interested in UX design and web development, and I'm using GitHub to learn by building.
 
